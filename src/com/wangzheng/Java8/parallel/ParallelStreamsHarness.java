@@ -1,4 +1,4 @@
-package com.choice.Java8.chap7;
+package com.wangzheng.Java8.parallel;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.function.Function;

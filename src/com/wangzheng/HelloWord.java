@@ -1,9 +1,4 @@
-package com.choice;
-
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
+package com.wangzheng;
 
 public class HelloWord {
     public static void main(String[] args) {

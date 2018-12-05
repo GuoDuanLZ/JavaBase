@@ -1,4 +1,4 @@
-package com.choice.Java8;
+package com.wangzheng.Java8;
 
 import java.util.Arrays;
 import java.util.List;
