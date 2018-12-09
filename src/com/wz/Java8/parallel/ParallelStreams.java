@@ -1,4 +1,4 @@
-package com.wangzheng.Java8.parallel;
+package com.wz.Java8.parallel;
 
 import java.util.stream.LongStream;
 import java.util.stream.Stream;

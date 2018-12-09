@@ -1,4 +1,4 @@
-package com.wangzheng;
+package com.wz;
 
 public class HelloWord {
     public static void main(String[] args) {

@@ -1,10 +1,10 @@
-package com.wangzheng.Java8.parallel;
+package com.wz.Java8.parallel;
 
 import java.util.concurrent.ForkJoinTask;
 import java.util.concurrent.RecursiveTask;
 import java.util.stream.LongStream;
 
-import static com.wangzheng.Java8.parallel.ParallelStreamsHarness.FORK_JOIN_POOL;
+import static com.wz.Java8.parallel.ParallelStreamsHarness.FORK_JOIN_POOL;
 
 public class ForkJoinSumCalculator extends RecursiveTask<Long> {
 
